@@ -2,7 +2,7 @@
 layout: post
 title: What Is Typography, And Why Is It Important?
 date: 2022-04-20T14:36:55.568Z
-image: ../uploads/blog-1-feature-image.jpg
+image: ../uploads/blog-1-f-img.png
 caption: ""
 ---
 <!--StartFragment-->
