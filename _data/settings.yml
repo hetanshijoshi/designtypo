@@ -6,8 +6,8 @@ header_text: ""
 header_text_color: "#ffffff"
 bannerheight: 40vmax
 navbarheight: 55px
-logo: ../uploads/f-1-.png
-favicon: ../uploads/f-1-.png
+logo: ../uploads/f.png
+favicon: ../uploads/android-chrome-192x192.png
 gridlayout: false
 fixednavbar: true
 upzoom: true
